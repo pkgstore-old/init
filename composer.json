@@ -1,0 +1,28 @@
+{
+  "name": "pkgstore/init",
+  "description": "Package Store",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/pkgstore",
+  "keywords": [
+    "package",
+    "store"
+  ],
+  "authors": [
+    {
+      "name": "Kitsune Solar",
+      "email": "kitsune.solar@gmail.com",
+      "homepage": "https://kitsune.solar/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/pkgstore/init/issues",
+    "source": "https://github.com/pkgstore/init"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
